@@ -15,7 +15,7 @@ The World Happiness Report is a landmark survey tracking national and personal v
 * **Correlation Matrix Heatmap:** Evaluated the strength of positive relationships between Happiness Scores, GDP per Capita, Family support, and Healthy Life Expectancy.
 * **Regional Disparities:** Scatter plots tracking GDP per Capita against Happiness Score across distinct global regions.
 * **Regional Share Analysis:** Aggregate pie chart visualization illustrating the average happiness score share distribution by region.
-* **Interactive Choropleth Map:** Geographic visualization mapping global economic output and health metrics using Python (`folium`).
+* **Interactive Choropleth Map:** Geographic visualization mapping global economic output and health metrics using Python (`folium`). [ https://annumasif.github.io/Global-Happiness-Analysis/ ]
 
 ---
 
